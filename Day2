@@ -1,0 +1,32 @@
+# Day 2 — Expense & Income Analysis
+
+### What I learned
+- How to convert date and time values into proper date format  
+- How to apply currency conversion considering commission fees  
+- How to categorize transactions using lookup functions  
+- How to build pivot tables to analyze daily expenses and income
+
+---
+
+### What I did (Step by step)
+- Converted the operation date and time into date format using `DATEVALUE()` and applied Date formatting  
+- Converted card currency amounts into UAH (Ukrainian Hryvnia) taking into account commission via `IF()` function  
+- Added categories to each transaction (expense or income) using `VLOOKUP()`  
+- Built a pivot table showing income and expenses for each day and applied conditional formatting (green = income, red = expense)  
+- Built another pivot table showing expenses by category, with an additional grouping level by transaction details
+
+---
+
+### ✅ Tools & skills used
+- `DATEVALUE()` function  
+- `IF()` function  
+- `VLOOKUP()` function  
+- Pivot tables  
+- Conditional formatting (green/red)  
+- Currency conversion logic
+
+---
+
+### ✅ Notes
+This day helped me dive deeper into intermediate spreadsheet functions and pivot table creation.  
+By categorizing transactions and visualizing daily flows, the dataset became much more insightful for further analysis.
