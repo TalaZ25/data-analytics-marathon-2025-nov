@@ -33,6 +33,7 @@ Tasks:
 
  **Dashboard link:**  
 [My Tableau Dashboard](https://public.tableau.com/views/DAMarathonNataliiaZ/sheet0?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![Visualization](../screenshots/day3_visualization.png)
 
 Status: **Completed**
 
