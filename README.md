@@ -20,6 +20,15 @@ Tasks:
 - Convert currency using IF()
 - Add categories using VLOOKUP()
 - Build pivot tables and apply conditional formatting
+
+  ![Visualization](screenshots/day2_1.png)
+  
+  ![Visualization](screenshots/day2_2.png)
+  
+  ![Visualization](screenshots/day2_3.png)
+  
+  ![Visualization](screenshots/day2_4.png)
+  
 Status: **Completed**
 
 ---
